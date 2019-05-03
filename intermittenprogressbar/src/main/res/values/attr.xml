@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="IntermittentProgressBar">
+        <attr name="primary_color" format="color" />
+        <attr name="progress_color" format="color" />
+        <attr name="intermittent_count" format="integer" />
+        <attr name="intermittent_width" format="integer" />
+        <attr name="stroke_width" format="float" />
+    </declare-styleable>
+</resources>

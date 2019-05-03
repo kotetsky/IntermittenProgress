@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IntermittenBarApplication</string>
+
+    <string name="Processing_slide_uploading">Uploading your footage</string>
+    <string name="Processing_slide_analyzing">Analyzing your footage</string>
+    <string name="Processing_slide_creating">Creating storyboard</string>
+    <string name="Processing_slide_adding">Adding graphics</string>
+    <string name="Processing_slide_music">Adding music</string>
+    <string name="Processing_slide_rendering">Nearly finished - rendering video</string>
+
+    <string name="Processing_uploading_title">Tip: Used with all platforms</string>
+    <string name="Processing_uploading_message">You can use the app your mobile, tablet and web on all devices.</string>
+    <string name="Processing_analyzing_title">Tip: With titles</string>
+    <string name="Processing_analyzing_message">Everything can be muted, add the title for you work</string>
+    <string name="Processing_creating_title">Tip: Make everything short</string>
+    <string name="Processing_creating_message">For social media content, in most cases, the shorter the better!</string>
+    <string name="Processing_adding_title">Tip: Smooth and steady</string>
+    <string name="Processing_adding_message">For sharp focus and prevent blur in the video, use both hands and tuck your elbows into your body for extra stability.</string>
+    <string name="Processing__music_title">Tip: Audio quality</string>
+    <string name="Processing_music_message">Don’t underestimate the importance of high-quality sound. When recording someone speaking, get as close to them as possible to make sure they are heard above any background noise.</string>
+    <string name="Processing_rendering_title">Tip: Emotions lead to sharing</string>
+    <string name="Processing_rendering_message">Our brains are more inclined to share emotional content! Pay attention to the use of music in your video, as music elicits strong emotions.</string>
+    <string name="GENERIC__UNTITLED">Untitled</string>
+</resources>
